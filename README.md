@@ -25,7 +25,7 @@ This is a simple Product Recommendation System built with Streamlit that recomme
     pip install -r requirements.txt
     ```
 
-3. Make sure you have the data files `data.pkl` and `similarity.pkl` in the `data/` directory.
+3. Make sure you have the data files `data.pkl` and `similarity.pkl` in the same directory.
 
 4. Run the Streamlit app:
 
@@ -45,7 +45,7 @@ The app uses a custom background image that can be changed in the code. Simply m
 
 ## 👤 Author
 
-**Mohamed Shaad Kunhimohamed**
+**Mohamed Shaad**
 
 - LinkedIn: [@Mohamed Shaad](https://www.linkedin.com/in/mohamedshaad)
 - GitHub: [@mshaadk](https://github.com/mshaadk)
